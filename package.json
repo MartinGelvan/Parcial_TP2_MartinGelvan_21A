@@ -1,0 +1,17 @@
+{
+  "name": "parcial_tp2_martingelvan_21a",
+  "version": "1.0.0",
+  "description": "Parcial de TP2",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node .",
+    "watch": "node --watch .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Martin Gelvan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
